@@ -198,7 +198,7 @@ a {
     background-color: #1a1a1a;
     margin-top: 40px;
 }
-@media (max-width:550px) {
+@media (max-width:320px) {
     .navbar{
         display: flex;
         flex-direction: column;
